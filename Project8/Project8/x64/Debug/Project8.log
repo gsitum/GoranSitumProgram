@@ -1,0 +1,6 @@
+﻿  igraci.c
+  main.c
+C:\Users\Marija\source\repos\Project8\Project8\main.c(82,13): warning C4013: 'azurirajPozicijuIgraca' undefined; assuming extern returning int
+C:\Users\Marija\source\repos\Project8\Project8\main.c(85,30): warning C4133: 'function': incompatible types - from 'Igrac *' to 'int *'
+  Generating Code...
+  Project8.vcxproj -> C:\Users\Marija\source\repos\Project8\x64\Debug\Project8.exe
